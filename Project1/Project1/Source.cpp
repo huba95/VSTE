@@ -11,7 +11,7 @@ int main()
 	//comment in VS
 
 	//Code to Feature1
-	cout << Add();
+	cout << Add(2,3);
 	system("pause");
 	return 0;
 }
