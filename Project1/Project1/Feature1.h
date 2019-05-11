@@ -1,8 +1,8 @@
 #pragma once
-int Add()
+double Add()
 {
-	int x1 = 1;
-	int x2 = 2;
-	int sum = x1 + x2;
+	double x1 = 1;
+	double x2 = 2;
+	double sum = x1 + x2;
 	return sum;
 }
