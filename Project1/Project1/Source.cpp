@@ -1,5 +1,7 @@
 using namespace std;
 #include <iostream>
+#include "Feature1.h"
+
 
 int main()
 {
@@ -9,4 +11,7 @@ int main()
 	//comment in VS
 
 	//Code to Feature1
+	cout << Add();
+	system("pause");
+	return 0;
 }
